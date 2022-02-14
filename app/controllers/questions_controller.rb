@@ -1,6 +1,7 @@
 # comment
 class QuestionsController < ApplicationController
   def ask
+    # comment
   end
 
   def answer
